@@ -1,0 +1,24 @@
+{
+  "name": "koa_mongodb",
+  "version": "1.0.0",
+  "description": "a koa mongodb demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "mongodb",
+    "node"
+  ],
+  "author": "qinjt",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.12.2",
+    "koa": "^2.5.1",
+    "koa-art-template": "^1.1.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "mongodb": "^3.1.0-beta4"
+  }
+}
